@@ -9,6 +9,10 @@
   "author": "JustBenya",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1",
     "node-sass": "^4.8.3"
-  }
+  },
+  "dependencies": {}
 }
