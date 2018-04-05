@@ -2,13 +2,10 @@ https://justbenya.github.io/outdoors-project/
 
 Тестовый проект
 ====
-TODO: 
-- Mozilla Firefox элементы дергаются, попробовать решить проблему.
-
-
 Используется:
-- float grid
+- float
 - animation
 - экспериментальные css-свойства
-- gulp 
 - sass(scss)
+- npm Scripts
+- responsive design
